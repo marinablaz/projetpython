@@ -8,5 +8,5 @@ Nous nous intéressons aux prix des Airbnb parisiens............blabla à contin
 
 
 
-La base de données utilisée dans la partie 1 provient du site insideairbnb.com, qui scrappe les données d'Airbnb dans plusieurs grandes villes à travers le monde. 
+La base de données utilisée dans la partie 1 provient du site insideairbnb.com, qui scrappe les données d'Airbnb dans plusieurs grandes villes à travers le monde et donne accès
 
