@@ -15,3 +15,5 @@ Dans une seconde partie, nous avons créé un modèle afin de prédire au mieux 
 Les fichiers sont : 
 - notebook--final, qui contient le corps principal du projet
 - scraping.py, qui contient tout le code lié au scrapping de SuperImmo
+- loyers.csv, le CSV qui contient les données obtenues avec le scrapping
+- arrondissements.geojson, qui permet de tracer les arrondissements sur une carte de Paris
